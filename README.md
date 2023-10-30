@@ -16,6 +16,8 @@ pip install -r requirements.txt
 
 ### Running the system
 
+The model trained on MATRES dataset is available [here](https://drive.google.com/file/d/1Z_5j1PlUAkdsyynM5_QCeIn2-f8DKnTg/view?usp=sharing).
+
 To produce the our additional data splits, run:
 
 ```
